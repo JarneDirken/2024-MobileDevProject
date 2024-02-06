@@ -1,0 +1,177 @@
+{
+  "musclegroups": [
+    {
+      "name": "Arms",
+      "icon": "musclegroup_icon1.png",
+      "image": "musclegroup_image1.svg",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Abs",
+      "icon": "musclegroup_icon2.png",
+      "image": "musclegroup_image2.svg"
+    },
+    {
+      "id": 3,
+      "name": "Shoulders",
+      "icon": "musclegroup_icon3.png",
+      "image": "musclegroup_image3.svg"
+    },
+    {
+      "id": 4,
+      "name": "Legs",
+      "icon": "musclegroup_icon4.png",
+      "image": "musclegroup_image4.svg"
+    },
+    {
+      "id": 5,
+      "name": "Back",
+      "icon": "musclegroup_icon5.png",
+      "image": "musclegroup_image5.svg"
+    },
+    {
+      "id": 6,
+      "name": "Chest",
+      "icon": "musclegroup_icon6.png",
+      "image": "musclegroup_image6.svg"
+    }
+  ],
+  "exercises": [
+    {
+      "id": 1,
+      "musclegroupId": 1,
+      "name": "Arm Curl",
+      "description": "Strength training of the arms, the arm curl strengthens the upper arm. Mainly the Biceps.",
+      "focus": "Strength",
+      "image": "exercise_image1.png",
+      "url": "https://youtu.be/ro8CdoO7izE"
+    },
+    {
+      "id": 2,
+      "musclegroupId": 2,
+      "name": "Abdominal Crunch",
+      "description": "Strength training of the core, the abdominal crunch strengthens the abdominal muscles. Mainly the Abdominal Rectus.",
+      "focus": "Strength",
+      "image": "exercise_image2.png",
+      "url": "https://youtu.be/zRNzVLCeXY0"
+    },
+    {
+      "id": 3,
+      "musclegroupId": 3,
+      "name": "Shoulder Press",
+      "description": "Upper body strength training, the shoulder press strengthens the shoulder muscles. Mainly the Deltoid muscle.",
+      "focus": "Strength",
+      "image": "exercise_image3.png",
+      "url": "https://youtu.be/k3ZLQDNRHFM"
+    },
+    {
+      "id": 4,
+      "musclegroupId": 4,
+      "name": "Leg Extension",
+      "description": "Strength training of the legs, the leg extension strengthens the muscles of the upper legs. Mainly the quadriceps.",
+      "focus": "Strength",
+      "image": "exercise_image4.png",
+      "url": "https://youtu.be/wO_S_DctLaI"
+    },
+    {
+      "id": 5,
+      "musclegroupId": 5,
+      "name": "Seated Row",
+      "description": "Strength training of the upper body, the seated row strengthens the back muscles. Primarily the Lattissimus Dorsi.",
+      "focus": "Strength",
+      "image": "exercise_image5.png",
+      "url": "https://youtu.be/IfIX6T5hbDw"
+    },
+    {
+      "id": 6,
+      "musclegroupId": 6,
+      "name": "Chest Press",
+      "description": "Strength training of the upper body, the chest press strengthens the pectoral muscles. Mainly the Pectoralis major.",
+      "focus": "Strength",
+      "image": "exercise_image6.png",
+      "url": "https://youtu.be/Vgb0vrbtHBQ"
+    },
+    {
+      "id": 7,
+      "musclegroupId": 5,
+      "name": "Lat Pull Down",
+      "description": "Strength training of the upper body, the lat pulldown strengthens the back muscles. Mainly the latissimus dorsi.",
+      "focus": "Strength",
+      "image": "exercise_image7.png",
+      "url": "https://youtu.be/r6lTkysSXCU"
+    },
+    {
+      "id": 8,
+      "musclegroupId": 1,
+      "name": "Tricep Dips",
+      "description": "Strength training of the arms, the triceps dips machine strengthens the upper arms. Mainly the Triceps.",
+      "focus": "Strength",
+      "image": "exercise_image8.png",
+      "url": "https://youtu.be/puedTWWupKw"
+    },
+    {
+      "id": 9,
+      "musclegroupId": 5,
+      "name": "Diverging Lat Pull Down",
+      "description": "Strength training of the upper body, the lat pulldown strengthens the back muscles. Mainly the latissimus dorsi.",
+      "focus": "Strength",
+      "image": "exercise_image9.png",
+      "url": "https://youtu.be/9LVeLaFjCwA"
+    },
+    {
+      "id": 10,
+      "musclegroupId": 5,
+      "name": "Back Extension",
+      "description": "Strength training of the upper body, the back extension strengthens the back muscles. Mainly the lower back.",
+      "focus": "Strength",
+      "image": "exercise_image10.png",
+      "url": "https://youtu.be/DLtvCAcyiyA"
+    },
+    {
+      "id": 11,
+      "musclegroupId": 4,
+      "name": "Prone Leg Curl",
+      "description": "Strength training of the legs, the Leg Curl strengthens the back of the legs. Mainly the hamstrings and glutes.",
+      "focus": "Strength",
+      "image": "exercise_image11.png",
+      "url": "https://youtu.be/L-Poz_pjBKg"
+    },
+    {
+      "id": 12,
+      "musclegroupId": 6,
+      "name": "Chest Fly",
+      "description": "Strength training of the upper body, the chest fly strengthens the pectoral muscles. Mainly the Pectoralis major.",
+      "focus": "Strength",
+      "image": "exercise_image12.png",
+      "url": "https://youtu.be/77ajDzsA6cs"
+    },
+    {
+      "id": 13,
+      "musclegroupId": 4,
+      "name": "Hip Adduction",
+      "description": "Strength training of the legs, the adduction machine strengthens the muscles of the inner legs and thigh muscles.",
+      "focus": "Strength",
+      "image": "exercise_image13.png",
+      "url": "https://youtu.be/qh6z8fbOx2A"
+    },
+    {
+      "id": 14,
+      "musclegroupId": 4,
+      "name": "Leg Press",
+      "description": "Strength training of the legs, the Leg Press machine strengthens the muscles thigh muscles. Mainly the Quadriceps.",
+      "focus": "Strength",
+      "image": "exercise_image14.png",
+      "url": "https://youtu.be/_mnurQAmW08"
+    },
+    {
+      "id": 15,
+      "musclegroupId": 1,
+      "name": "Dip Chin Assist",
+      "description": "Strength training of the arms, the Dip Chin Assist machine strengthens the Triceps and back muscles.",
+      "focus": "Strength",
+      "image": "exercise_image15.png",
+      "url": "https://youtu.be/xRBp0CI2vwo"
+    }
+  ]
+}
