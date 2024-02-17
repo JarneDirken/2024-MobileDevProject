@@ -3,7 +3,7 @@ import 'dart:convert';
 import "../models/workout.dart";
 
 class WorkoutApi {
-  static String server = '4306-91-181-117-196.ngrok-free.app';
+  static String server = '8055-94-110-113-139.ngrok-free.app';
 
   // muscle groups
 
