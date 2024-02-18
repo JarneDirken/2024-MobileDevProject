@@ -79,4 +79,4 @@ To run the project in your local environment, follow these steps:
 
 ## 🍿 Video
 
-![Mobile_App_Development_Jarne___Sohaib](/uploads/d73462d4c62733ddddba54ff4a2a4c1c/Mobile_App_Development_Jarne___Sohaib.mp4)
+https://github.com/JarneDirken/2024-MobileDev_Project/blob/main/video/demo.mp4
